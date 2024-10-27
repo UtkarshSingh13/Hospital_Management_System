@@ -1,5 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+This is a [Next.js](https://nextjs.org/) project for hospital management system.
+Checkout the deployement running at https://utkarsh-singh-hospital-management-system.vercel.app/
+This containg both client and server side components in nextjs and databse is on appwrite.
 ## Getting Started
 
 First, run the development server:
